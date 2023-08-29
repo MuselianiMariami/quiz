@@ -1,2 +1,2 @@
 # quiz game - Capital Trivia
-live - https://muselianimariami.github.io/quiz/
+live - https://muselianimariami.github.io/quiz-game/
